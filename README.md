@@ -1,3 +1,4 @@
+## CS 210: Programming Languages (C++)
 # Corner Grocer Item-Tracking Program
 
 **Summarize the project and what problem it was solving.**
@@ -17,3 +18,13 @@ Learning how to read from and write to external files (File I/O) is highly trans
 
 **How did you make this program maintainable, readable, and adaptable?**
 I kept the `main()` function very clean by moving the heavy lifting into the `GroceryTracker` class. I also used descriptive variable names and added inline comments to explain what each block of code was doing, so that another developer (or myself in six months) could easily read and update the logic.
+
+## CS 250: Software Development Life Cycle (Agile/Scrum)
+### Interpreting User Needs and User Stories
+Interpreting user needs requires a software developer to look past basic feature requests and uncover the actual business problems that a client is trying to solve. Creating structured user stories is incredibly helpful because it shifts the focus away from rigid technical specifications and toward human centric goals. By framing requirements around a specific user persona, a desired action, and an explicit business value, the engineering team can easily understand the underlying purpose of the code they are writing. This practice prevents developers from over engineering unnecessary features, ensures that every sprint increment directly matches customer expectations, and keeps the entire project lifecycle aligned with real world value.
+
+### Software Development Approach and Agile Processes
+My approach to developing programs relies on building modular, predictable software components that can easily adapt to changing requirements without fracturing the core codebase architecture. Moving forward into my future development projects, I definitely hope to incorporate Agile practices like continuous backlog refinement, relative task sizing, and automated testing loops. Utilizing relative estimation techniques like T-Shirt Sizing ensures that complex backend data risks are identified and addressed by the collective team before any coding begins. Embracing these iterative processes eliminates the classic bottleneck of tracking project progress through hard calendar deadlines and replaces it with a realistic velocity metric that protects code stability.
+
+### Being an Effective Team Member in Software Development
+Being a good team member in modern software development means moving away from the isolated specialist mindset and actively embracing shared ownership of the entire product codebase. An effective engineer communicates transparently during daily standups, exposes technical blockers early, and treats peer reviews as opportunities for collaborative learning rather than personal criticism. True collaboration involves pairing directly across roles to integrate automated testing with functional features, ensuring that quality is built into the software from day one. By prioritizing team velocity and capacity over individual performance metrics, a developer directly helps eliminate single points of failure and supports a highly cohesive team environment.
